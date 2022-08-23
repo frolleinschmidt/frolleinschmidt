@@ -1,5 +1,5 @@
-👋 Hi, I’m @frolleinschmidt and I'm a Sparkling Rainbow Engineer @idealo
+👋 Hi, I’m @frolleinschmidt and I'm an engineer in the observability team at Digital Ocean
 
-👀 I’m interested in observability, performance analysis, debugging, fixing things, benchmarking and chaos engineering
+👀 I’m interested in observability, performance analysis, debugging, testing, benchmarking and chaos engineering
 
-🌱 I’m currently learning Rust and eBPF
+🌱 I’m currently learning eBPF
